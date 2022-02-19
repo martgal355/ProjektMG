@@ -4,8 +4,7 @@
 
 ## About The Project
 
-The aim of the project is to develop a website that will use 
-Bootstrap library
+The aim of the project is to develop a website that will use Bootstrap library.
 
 
 ## Built With
