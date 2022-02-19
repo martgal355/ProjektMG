@@ -8,12 +8,12 @@ The aim of the project is to develop a website that will use
 Bootstrap library
 
 ## Built With
-•	HTML/CSS
-•	PHP
-•	Freemwork Bootstrap
-•	Xampp 
-•	PhpMyAdmin
-•	Visual Studio Code
+	HTML/CSS
+	PHP
+	Freemwork Bootstrap
+	Xampp 
+	PhpMyAdmin
+	Visual Studio Code
 
 ## Getting Started
 To run the project you need to install a local server. The project uses Xampp. It is necessary to enable Apache and MySQL.
