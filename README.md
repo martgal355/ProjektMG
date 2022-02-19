@@ -27,4 +27,5 @@ The project should be placed in the folder htdocs:
 The project is running on localhost:
 ![obraz](https://user-images.githubusercontent.com/83389754/154781431-a567f053-d8fc-4b1f-9e3a-e1961ff73ca4.png)
 
-
+##Screenshots
+![obraz](https://user-images.githubusercontent.com/83389754/154781620-c0974b8f-af91-46d9-a6b8-24bffbf7dfb7.png)
